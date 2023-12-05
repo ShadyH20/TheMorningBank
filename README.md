@@ -1,4 +1,17 @@
-how to start servers
+# Online Banking System Project
 
-1-edit start.bat and replace the paths to the folder Saba7o-main and se_project to the path from your computer
-2-execute/run start.bat
+This React.js and CSS-based project provides a user-friendly frontend for an online banking system. Seamlessly manage personal finances, credit cards, loans, and bill payments.
+
+## Deployment
+
+The deployed version of the project can be accessed [here](https://themorningbank.vercel.app/).
+
+## Test Login Credentials
+
+**Customer:**
+- **Username:** shady
+- **Password:** shady
+
+**Banker:**
+- **Username:** banker
+- **Password:** banker
