@@ -1,0 +1,1 @@
+wt "PowerShell.exe" -NoExit "cd C:\Users\omar\Desktop\projects\SE_Project\se_project\;npm run dev" ; "PowerShell.exe" -NoExit "cd C:\Users\omar\Desktop\projects\SE_Project\Saba7o-main\;npm start"
